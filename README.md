@@ -4,7 +4,7 @@
 
 <div align="center">
 Un bot conversacional inteligente que gestiona inventario y pedidos de forma automática, integrado con WhatsApp.
-</div>
+
 🤸 Guía de Inicio Rápido
 
 <a name="introducción">🤖 Introducción</a>
