@@ -85,6 +85,6 @@ Para conectar el agente con WhatsApp, necesitarás exponer este servidor a inter
 <h3 align="center">Agente de Ventas B2B con N8N</h3>
 
 <br />
-<img src=./assets/N8N-MYUPDATE.png" alt="Banner del Proyecto" width="700"/>
+<img src=./assets/img/N8N-MYUPDATE.png" alt="Banner del Proyecto" width="700"/>
 <br />
 
