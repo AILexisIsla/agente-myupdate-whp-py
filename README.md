@@ -80,4 +80,4 @@ Ejecutar el Proyecto
 
 python main.py
 
-El servidor se iniciará en http://127.0.0.1:5000. Para conectar el agente con WhatsApp, necesitarás exponer este servidor a internet usando una herramienta como ngrok.
+Para conectar el agente con WhatsApp, necesitarás exponer este servidor a internet usando una herramienta como ngrok.
