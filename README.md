@@ -81,3 +81,10 @@ Ejecutar el Proyecto
 python main.py
 
 Para conectar el agente con WhatsApp, necesitarás exponer este servidor a internet usando una herramienta como ngrok.
+
+<h3 align="center">Agente de Ventas B2B con N8N</h3>
+
+<br />
+<img src=./assets/N8N-MYUPDATE.png" alt="Banner del Proyecto" width="700"/>
+<br />
+
