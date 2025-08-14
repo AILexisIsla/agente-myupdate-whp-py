@@ -1,11 +1,4 @@
 <div align="center">
-<br />
-<img src="[https://www.google.com/search?q=https://img.shields.io/badge/-Python-black%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite%26logo%3Dpython%26color%3D3776AB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpythonlang%2F%3Flocale%3Dbs_BA&psig=AOvVaw3vz-eRLFprJLfXsPZRskps&ust=1755226788112000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiM5buniY8DFQAAAAAdAAAAABAE)" alt="python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Flask-black%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite%26logo%3Dflask%26color%3D000000" alt="flask" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Supabase-black%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite%26logo%3Dsupabase%26color%3D3ECF8E" alt="supabase" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Twilio-black%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite%26logo%3Dtwilio%26color%3DF22F46" alt="twilio" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Google_Gemini-white%3Fstyle%3Dfor-the-badge%26logoColor%3Dblack%26logo%3Dgoogle%26color%3D4285F4" alt="gemini" />
-<br />
 
 <h3 align="center">Agente de Ventas B2B con IA para WhatsApp</h3>
 
