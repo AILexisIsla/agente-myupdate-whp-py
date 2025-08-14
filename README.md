@@ -49,7 +49,7 @@ pip
 
 Clonar el Repositorio
 
-git clone [URL_DE_TU_REPOSITORIO]
+git clone https://github.com/AILexisIsla/agente-myupdate-whp-py.git
 cd [NOMBRE_DE_LA_CARPETA]
 
 Crear un Entorno Virtual (Recomendado)
