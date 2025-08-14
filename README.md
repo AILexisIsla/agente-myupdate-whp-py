@@ -83,7 +83,7 @@ python main.py
 Para conectar el agente con WhatsApp, necesitarás exponer este servidor a internet usando una herramienta como ngrok.
 
 <h3 align="center">Agente de Ventas B2B con N8N</h3>
-<h2 align="center">GPT 5.0 baja los costo al seleccionarlo como agente, para produccion seleccionar una base de datos PostgreSQL en vez de Simple Memory </h2>
+<h4 align="center">GPT 5.0 baja los costo al seleccionarlo como agente, para produccion seleccionar una base de datos PostgreSQL en vez de Simple Memory </h4>
 
 <br />
 <img src="./assets/img/N8N-MYUPDATE.png" alt="Banner del Proyecto" width="700"/>
