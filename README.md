@@ -5,15 +5,6 @@
 <div align="center">
 Un bot conversacional inteligente que gestiona inventario y pedidos de forma automática, integrado con WhatsApp.
 </div>
-</div>
-
-📋 Tabla de Contenidos
-🤖 Introducción
-
-⚙️ Stack Tecnológico
-
-🔋 Características
-
 🤸 Guía de Inicio Rápido
 
 <a name="introducción">🤖 Introducción</a>
